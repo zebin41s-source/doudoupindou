@@ -1,7 +1,8 @@
 {
   "packageName": "com.doudou.pattern",
-  "versionCode": 18,
-  "versionName": "1.2.6",
-  "apkUrl": "https://raw.githubusercontent.com/zebin41s-source/doudoupindou/main/doudou-pattern-v1.2.6.apk",
-  "notes": "新增离线一机一码激活。所有用户（含旧版升级）需将设备码发给商家并输入专属卡密；验证无需联网。"
+  "versionCode": 19,
+  "versionName": "1.2.7",
+  "apkUrl": "https://raw.githubusercontent.com/zebin41s-source/doudoupindou/main/doudou-pattern-v1.2.7.apk",
+  "notes": "新增通用参考 72、88、144、221 色档位；自定义色卡支持最多 221 色及 CSV 导入；PDF 材料清单自动分页。通用参考色号不对应特定品牌，实际制作请导入实体色卡。"
 }
+
