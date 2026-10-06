@@ -1,8 +1,8 @@
 {
   "packageName": "com.doudou.pattern",
-  "versionCode": 16,
-  "versionName": "1.2.4",
-  "apkUrl": "https://raw.githubusercontent.com/zebin41s-source/doudoupindou/main/doudou-pattern-v1.2.4.apk",
-  "notes": "新增检查更新功能。点击下载后按系统提示安装新版。"
+  "versionCode": 17,
+  "versionName": "1.2.5",
+  "apkUrl": "https://raw.githubusercontent.com/zebin41s-source/doudoupindou/main/doudou-pattern-v1.2.5.apk",
+  "notes": "修复检查更新失败：增加备用检查通道、错误说明和 GitHub 下载入口。"
 }
 
